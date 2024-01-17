@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Salsa";
+    src: url('fonts/Salsa-Regular.ttf');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+footer {
+    font-size: large;
+    font-family: 'Salsa';
+    color: #ffffff;
+    min-height: 5vh;
+    overflow: hidden;
+}
+
+footer img {
+    width: 2rem;
+}
+
+.noMargin {
+    margin: 0;
+}
+
+.nav {
+    height: 7vh;
+}
