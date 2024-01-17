@@ -224,9 +224,10 @@ h3 {
 }
 
 .UnityDemo {
-    background-color: #f8ecff;
+    background-color: #ffecfd;
     border-radius: 10px;
-    margin: 10px 5px;
+    margin: 20px 5px;
+    padding: 20px 0;
 }
 
 .apps {
