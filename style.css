@@ -805,3 +805,7 @@ p::selection {
     background-color: rgb(255, 238, 241);
     color: black;
 }
+
+.flexDesc h4 {
+    text-decoration: none;
+}
