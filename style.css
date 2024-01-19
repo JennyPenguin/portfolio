@@ -640,6 +640,7 @@ footer {
 .education {
     padding: 2rem 0;
     background: no-repeat url(pictures/Starry_Background_.png);
+    background-size: cover;
 }
 
 /* end of timeline */
